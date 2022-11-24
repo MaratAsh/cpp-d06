@@ -22,3 +22,7 @@ add_executable(cpp_d06_01
         ex01/main.cpp
         )
 
+
+add_executable(cpp_d06_02
+        ex02/main.cpp
+        )
