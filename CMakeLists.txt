@@ -17,3 +17,8 @@ add_executable(cpp_d06_00_tests
         ex00/Convert.hpp
         )
 
+
+add_executable(cpp_d06_01
+        ex01/main.cpp
+        )
+
